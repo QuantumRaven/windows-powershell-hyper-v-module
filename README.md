@@ -23,7 +23,7 @@ Example:
 Example:
 
 `New-VHD -Path D:\VM_Storage\disk0.vhdx -SizeBytes 10GB`
-- Creates a virtual hard drisk in the VHDX format. The file name extension you specify determines the format.
+- Creates a virtual hard disk in the VHDX format. The file name extension you specify determines the format.
 
 ### Add-VMHardDiskDrive: What it is and how it works:
 > The Add-VMHardDiskDrive cmdlet adds a hard disk drive to a virtual machine. - [Add-VMHardDiskDrive - Hyper-V - PowerShell](https://docs.microsoft.com/en-us/powershell/module/hyper-v/add-vmharddiskdrive?view=win10-ps)
